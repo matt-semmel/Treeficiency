@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "908744240965",
+    "project_id": "treefficiency-f3610",
+    "storage_bucket": "treefficiency-f3610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908744240965:android:1c65eff99dcd234af7d82c",
+        "android_client_info": {
+          "package_name": "com.example.treefficiency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908744240965-av1llp9dgrsrgcul7ls3v79la6d8dfct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.treefficiency",
+            "certificate_hash": "c8786b6dafc42d787f90e92116714c935bb20dc3"
+          }
+        },
+        {
+          "client_id": "908744240965-9gjgb53rtnb2s2l8a2ema3997bt00ue8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4KIYp8zCfS89B7Cs7uPJiXxlkmVGs1Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908744240965-9gjgb53rtnb2s2l8a2ema3997bt00ue8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908744240965-3efpvi6v94008qgito9382qvndk71dkp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.treefficiency"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
